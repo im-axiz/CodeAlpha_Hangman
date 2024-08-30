@@ -1,5 +1,5 @@
 Hangman Game
-Author: Aziz Ahmad
+Developer: Aziz Ahmad
 Internship: CodeAlpha
 Task 1: Hangman Game
 
@@ -29,3 +29,6 @@ After each round, the player can choose to play again or exit the game. Upon exi
 Logging and History
 
 The game logs the player’s name, age, total score, and time spent playing in a file named history.txt. This log helps track progress over multiple sessions. 
+
+License
+This project is created for educational purposes as part of an internship task. Feel free to modify and use the code as needed.
